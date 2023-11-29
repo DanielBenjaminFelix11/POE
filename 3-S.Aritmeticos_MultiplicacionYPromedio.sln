@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "3-S.Aritmeticos_MultiplicacionYPromedio", "3-S.Aritmeticos_MultiplicacionYPromedio.vbproj", "{29748A45-B903-4DA0-8E7D-6A365A50668E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29748A45-B903-4DA0-8E7D-6A365A50668E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29748A45-B903-4DA0-8E7D-6A365A50668E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29748A45-B903-4DA0-8E7D-6A365A50668E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29748A45-B903-4DA0-8E7D-6A365A50668E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E63F783E-5B33-4E19-B2C5-B667E5F3AA73}
+	EndGlobalSection
+EndGlobal
